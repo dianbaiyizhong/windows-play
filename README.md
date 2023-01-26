@@ -1,7 +1,7 @@
 # windows-play
 > 本文介绍如何玩转windows
 
-#### wox启动器
+## wox启动器
 https://github.com/Wox-launcher/Wox
 
 使用alt+space即可唤醒，推荐将主题设置为blur white
@@ -126,6 +126,7 @@ ssh tencent
 
 
 
+
 ## 自动补全
 
 1. 安装PSReadLine
@@ -146,3 +147,7 @@ Set-PSReadLineOption -PredictionSource History
 ```
 
 
+## 文件共享无密码
+我们在共享文件，访问者总是被要求输入密码
+
+![](./share.png)
