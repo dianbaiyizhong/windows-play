@@ -150,4 +150,4 @@ Set-PSReadLineOption -PredictionSource History
 ## 文件共享无密码
 我们在共享文件，访问者总是被要求输入密码
 
-![](./share.png)
+![](./share.PNG)
